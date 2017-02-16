@@ -5,14 +5,13 @@ body {
 }
   
 h1 {
-  font-size: 140x;
+  font-size: 160x;
   text-align: center;
   }
   
 p {
   font-size: 12px;
   text-align: center;
-  position: relative;
 }
 
 a:link, a:visited {
