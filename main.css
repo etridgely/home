@@ -8,8 +8,7 @@ h1 {
   font-size: 100x;
   text-align: center;
   position: relative;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 100px;
   }
   
 p {
