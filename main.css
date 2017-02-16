@@ -8,14 +8,14 @@ h1 {
   font-size: 100px;
   text-align: center;
   top: 200px;
-  position: absolute;
+  position: relative;
   }
   
 p {
   font-size: 12px;
   text-align: center;
   top: 300px;
-  position: absolute;
+  position: relative;
 }
 
 a:link, a:visited {
