@@ -5,10 +5,10 @@ body {
 }
   
 h1 {
-  font-size: 100x;
+  font-size: 80x;
   text-align: center;
   position: relative;
-  margin: 100px;
+  margin: 100px auto 50px auto;
   }
   
 p {
