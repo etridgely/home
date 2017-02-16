@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'Calson';
-  src:  
+  src: url('https://www.fontsquirrel.com/fonts/im-fell-english-pro'); 
 }
 
 body {
   font-family: 'Calson', Fallback, sans-serif;
-  background-image: url(https://s-media-cache-ak0.pinimg.com/564x/92/f4/a0/92f4a03d6ac3e7da883f64dde6c4f5eb.jpg);
-  background-size: contain;
+  background-image: url(https://www.dropbox.com/s/v3wathbw0m1wrw9/paperTextureBackground5.jpg?dl=0);
+  background-size: cover;
 }
   
 h1 {
