@@ -1,13 +1,23 @@
-* {
-  background-image: url(https://s-media-cache-ak0.pinimg.com/564x/92/f4/a0/92f4a03d6ac3e7da883f64dde6c4f5eb.jpg);
-  background-size: contain;
-  font-family: Calson English Roman;
+@font-face {
+  font-family: 'Calson';
+  src:  
 }
 
+body {
+  font-family: 'Calson', Fallback, sans-serif;
+  background-image: url(https://s-media-cache-ak0.pinimg.com/564x/92/f4/a0/92f4a03d6ac3e7da883f64dde6c4f5eb.jpg);
+  background-size: contain;
+}
+  
 h1 {
-  font-size: 45 px;
+  font-size: 72 px;
+  text-align: center;
+  position: relative;
   }
   
 p {
   font-size: 12 px;
+  text-align: center;
+  color: black;
+  position: relative;
 }
