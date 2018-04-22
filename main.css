@@ -5,14 +5,14 @@ body {
 }
   
 h1 {
-  font-size: 15vw;
+  font-size: 6.25em;
   text-align: center;
   top: 200px;
   position: relative;
   }
   
 p {
-  font-size: 2vw;
+  font-size: 1.125rem;
   text-align: center;
   top: 300px;
   position: relative;
