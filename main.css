@@ -23,3 +23,11 @@ a:link, a:visited {
   text-decoration: none;
 }
 
+@media only screen and (max-width: 480px) {
+  h1 {
+    font-size: 32px;
+  }
+  p {
+    font-size: 8px;
+  }
+}
