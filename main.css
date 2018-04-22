@@ -6,6 +6,7 @@ body {
   
 h1 {
   font-size: 6.25em;
+  font-size: 6vw;
   text-align: center;
   top: 200px;
   position: relative;
@@ -13,6 +14,7 @@ h1 {
   
 p {
   font-size: 1.125rem;
+  font-size: 2vw;
   text-align: center;
   top: 300px;
   position: relative;
